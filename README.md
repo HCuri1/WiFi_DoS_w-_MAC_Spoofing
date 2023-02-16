@@ -25,3 +25,5 @@ For Debian-based linux distros, both can be installed by "apt-get install aircra
 2.1- Change interface MAC adress to a random one
 
 2.2- Send 3 deauthentication packets 
+
+2.3- 3 seconds sleep
