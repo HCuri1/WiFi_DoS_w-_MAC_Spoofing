@@ -11,4 +11,5 @@ For Debian-based linux distros, both can be installed by "apt-get install aircra
 How to execute this script:
 
 1- Check if the file has execution autorization (if not, just do "chmod +x [file name])
+
 2- ./[file name] [interface name] [target channel] [target MAC adress]
