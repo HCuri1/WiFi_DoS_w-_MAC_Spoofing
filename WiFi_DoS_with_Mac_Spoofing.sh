@@ -1,4 +1,9 @@
 #!/bin/bash
+
+##$1 -> Interface name
+##$2 -> Target channel 
+##$3 -> Target MAC addres
+
 iw dev $1 set channel $2
 
 while true
