@@ -1,5 +1,5 @@
 # WiFi_DoS_w/_MAC_Spoofing
-Shell script to realize an WiFi DoS with MAC Spoofing attack
+Shell script to execute an WiFi DoS with MAC Spoofing attack
 
 # Requirements:
 
