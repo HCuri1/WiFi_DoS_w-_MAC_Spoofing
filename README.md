@@ -8,7 +8,12 @@ Shell script to execute an WiFi DoS with MAC Spoofing attack
 - Aircrack-ng
 - MACCHANGER
 
-For Debian-based linux distros, both can be installed by "apt-get install aircrack-ng macchanger" (or just run "Install_Requirements.sh" from this repository)
+For Debian-based linux distros, both can be installed by:
+```
+apt-get install aircrack-ng macchanger
+```
+
+(or just run "Install_Requirements.sh" from this repository)
 
 # How to execute this script:
 
